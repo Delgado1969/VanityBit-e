@@ -1,3 +1,4 @@
+![VanityBit-e](https://github.com/Delgado1969/VanityBit-e/assets/101949777/6704293b-f0dc-4b53-b2f1-cec4ffc0f928)
 
 
 
