@@ -1,9 +1,14 @@
-# VanityBit
-任意の文字から始まるBitcoinアドレスを生成することができます。生成されたBitcoinアドレスの秘密鍵(WIF)も出力されます。
-## 注意
-1. 実行する前にPython3をインストールしている必要があります。
-2. 総当たりで任意の文字から始まるBitcoinアドレスを生成するので、PCに負荷がかかる場合があります。また、Bitcoinアドレスを生成する速度は、マシンのスペックに依存します。
-3. これを使用したことによる一切の損失、責任を負いかねます。
 
-## 更新履歴
-1. ターミナル上にも結果を表示するようアップデート
+
+
+# VanityBit-e
+You can generate Bitcoin addresses starting with any character. The private key (WIF) of the generated Bitcoin address will also be output.
+## Note
+1. Python3 must be installed before running.
+2. Bitcoin addresses starting with arbitrary characters are generated using brute force, which may place a load on your PC. Also, the speed of generating Bitcoin addresses depends on the specs of your machine.
+3. We are not responsible for any loss or liability resulting from the use of this.
+
+Original project https://github.com/kaaifn/VanityBit
+
+## Change log
+1. Updated to display results on terminal as well
